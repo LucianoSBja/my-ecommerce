@@ -33,11 +33,11 @@ Recordar que tiene un backend realizado con Firebase, por si quieren descargar y
 ___
 ## ScreenShots
 
-![Home](../india-ecommerce/src/assets/home.png)
+![Home](https://raw.githubusercontent.com/LucianoSBja/my-ecommerce-react/master/src/assets/home.png)
 
-![producto](../india-ecommerce/src/assets/producto.png)
+![detalle](https://github.com/LucianoSBja/my-ecommerce-react/blob/master/src/assets/producto.png?raw=true)
 
-![detalle](../india-ecommerce/src/assets/detalle-de-compra.png)
+![producto](https://github.com/LucianoSBja/my-ecommerce-react/blob/master/src/assets/detalle-de-compra.png?raw=true)
 ___
 
 ### Sobre Mi
